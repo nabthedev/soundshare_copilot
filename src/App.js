@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const BACKEND_URL = "https://your-replit-url.repl.co"; // <-- set your backend URL
+const BACKEND_URL = "https://1ec78dbc-b32c-4e69-8e8a-533fa3b28859-00-2dhuuwm0ppf6u.picard.replit.dev";
 
 function App() {
   const [sounds, setSounds] = useState([]);
